@@ -1,4 +1,4 @@
-# A peer-to-peer (P2P) file sharing and messaging application developed during the GEHU Hackathon 2025.
+# A peer-to-peer (P2P) file sharing and messaging application 
 
 ## 🧠 Overview
 
