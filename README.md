@@ -1,6 +1,4 @@
-# GEHU-Hackathon-p2p
-
-A peer-to-peer (P2P) file sharing and messaging application developed during the GEHU Hackathon 2025.
+# A peer-to-peer (P2P) file sharing and messaging application developed during the GEHU Hackathon 2025.
 
 ## 🧠 Overview
 
