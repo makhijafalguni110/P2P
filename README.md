@@ -17,19 +17,6 @@ This project implements a decentralized P2P network using UDP sockets in Node.js
 - **Active Peer Management**: Continuously monitors and updates the list of active peers.
 
 
-## 🛠 Installation
 
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/aashish1100/GEHU-Hackathon-p2p
-
-```
-
-For Backend:
-```npm start```
-
-For Frontend:
-```npm run dev```
 
 
